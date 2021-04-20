@@ -2,11 +2,13 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container-wrapper {}
-
 .container-wrapper--red {
     background-color: #f05f40;
     color: white;
+}
+
+.container-wrapper--yellow {
+    background-color: #f1d33b;
 }
 
 .alert-container .col-12 {
@@ -50,8 +52,6 @@ body {
     background-color: rgba(0, 0, 0, .5);
 }
 
-.qoutes-container {}
-
 .features {
     text-align: center;
     margin-bottom: 40px;
@@ -73,7 +73,6 @@ body {
     color: #f05f40;
 }
 
-.features-container {}
 
 /* Page header */
 
@@ -119,9 +118,6 @@ body {
 .block-divider--long {
     width: 95%;
 }
-
-
-.monthly-favorite-container {}
 
 /* Content Containers */
 
